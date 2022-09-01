@@ -3,10 +3,8 @@
 
 #### -numpy
 #### -cv2
-#### -math
 #### -skimage
-#### -matplotlib
-#### -argparse
+
 
 ---
 For example:
@@ -18,4 +16,4 @@ Input:
 
 Output:
 
-![Uploading res1.jpg…]()
+![res1](https://user-images.githubusercontent.com/89074426/187971621-64bf53f2-43ca-431c-8daf-01877ae6d57e.jpg)
